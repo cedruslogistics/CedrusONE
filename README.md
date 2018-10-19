@@ -20,7 +20,7 @@ To view the database schema, click [here](https://github.com/cedruslogistics/Ced
  #### Contributors
    - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C4E03AQE7ZyVqElmSkA/profile-displayphoto-shrink_100_100/0?e=1542844800&v=beta&t=mUBZTMNyZScOJWk9AFOYQaIsglIxTwmlE_ifKlPmmFA" width="25"/> [Ike Inda](https://www.linkedin.com/in/ikeinda/)
    - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C5603AQG9zs6rVlSFHA/profile-displayphoto-shrink_800_800/0?e=1542844800&v=beta&t=pxCil1DYauIV3ZklrkI0yW44MdS7xbiVqJIWtpEvYy4" width="25"/> [Esteban Ferrer](https://www.linkedin.com/in/ejferrer83/)
-      - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C4E03AQGuBhAGFTj80g/profile-displayphoto-shrink_800_800/0?e=1545264000&v=beta&t=n3PXE7IKOJ7Jf5ie2GhJK82_1vxTN41XRj8GL4MvaEE" width="25"/> [Reynier Pérez](https://www.linkedin.com/in/reynierpm/)
+   - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C4E03AQGuBhAGFTj80g/profile-displayphoto-shrink_800_800/0?e=1545264000&v=beta&t=n3PXE7IKOJ7Jf5ie2GhJK82_1vxTN41XRj8GL4MvaEE" width="25"/> [Reynier Pérez](https://www.linkedin.com/in/reynierpm/)
 
 
 
